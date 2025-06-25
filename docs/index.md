@@ -10,7 +10,7 @@ The BioHackathon in Japan, hosted by the Database Center for Life Science (DBCLS
 
 ## Dates and venue
 
-- Dates: 11th September (Sun) - 20th September (Sat), 2025
+- Dates: 14th September (Sun) - 20th September (Sat), 2025
 - Venue: [VISON](https://vison.jp/) in Mie, Japan
 
 ## Registration
@@ -19,9 +19,9 @@ The BioHackathon in Japan, hosted by the Database Center for Life Science (DBCLS
 
 ## Important dates
 
-- June 20, 2025: Registration opens
+- July 1, 2025: Registration opens
 - July 31, 2025: Due date for payment (accommodation fees)
-  - For international participants: Please wait as we will provide details on the payment methods in order. Also, please check that emails from @@primatours.co.jp are not being marked as spam.
+  - For international participants: Please wait as we will provide details on the payment methods in order. Also, please check that emails from @primatours.co.jp are not being marked as spam.
 
 Note: Registration may be restricted if the number of participants exceeds the capacity.
 
