@@ -4,32 +4,32 @@
 
 ## Objectives
 
-### Accelerate data science through the integrated use of databases in life sciences.
+The BioHackathon in Japan, organized by the Database Center for Life Science (DBCLS), continues to prioritize the integrated use of databases in the life sciences, with a strong emphasis on interoperability, standardization, and the construction of FAIR knowledge graphs. In recent years, the development of tools and workflows for integrating heterogeneous biological and biomedical data—including multi-omics, imaging, clinical, and environmental data—has become increasingly central. This integration is key to enabling cross-domain analysis and improving reproducibility in data-driven research.
 
-The BioHackathon in Japan, hosted by the Database Center for Life Science (DBCLS), prioritizes research topics that focus on the integrated use of databases in life sciences. Our focus is continuously on the standardization and interoperability of life sciences and biomedical databases (knowledge graphs). Simultaneously, by combining innovative approaches with information from literature, we aim to enable new discoveries through the development of methods and applications in data science.
+In addition, the rapid progress of large language models (LLMs) and other generative AI technologies opens new opportunities for extracting, linking, and reasoning over life science data. We aim to explore how these technologies can be effectively combined with curated databases and ontologies to enhance knowledge discovery, support hypothesis generation, and streamline research workflows. Through collaborative, hands-on hacking, the BioHackathon seeks to incubate innovative ideas and open solutions that push the boundaries of computational life science.
 
 ## Dates and venue
 
 - Dates: 14th September (Sun) - 20th September (Sat), 2025
-- Venue: [VISON](https://vison.jp/) in Mie, Japan
+- Venue: [VISON](https://vison.jp/) in Mie, Japan ([Google map](https://maps.app.goo.gl/JArqLrhYCCGfCfL78))
 
 ## Registration
 
-- <s>Please register at [in preparation](in preparation)</s> (Will be closed at July 31)
+- Please register at the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3a6TEnfatcH_C-aUZUmzf8jxXovEG5IVuD8ngdzm7j7xIPg/viewform?usp=sharing&ouid=111401176245823315613) (Registration will be closed by July 31)
 
 ## Important dates
 
 - July 1, 2025: Registration opens
-- July 31, 2025: Due date for payment (accommodation fees)
-  - For international participants: Please wait as we will provide details on the payment methods in order. Also, please check that emails from @primatours.co.jp are not being marked as spam.
+- July 31, 2025: Registration closes; Deadline for accommodation fee payment
+  - For international participants: Please make sure you can receive emails from @tcijapan.co.jp, as payment method details will be sent via that address.
 
-Note: Registration may be restricted if the number of participants exceeds the capacity.
+Note: Registration may be closed early if the number of participants exceeds the venue capacity.
 
 ## Information
 
-- [Schedule](https://github.com/dbcls/bh25/wiki/Schedule)
-- [Projects](https://github.com/dbcls/bh25/wiki/Projects)
-- [Participants](https://github.com/dbcls/bh25/wiki/Participants)
+- [Schedule](https://github.com/dbcls/bh25/wiki/Schedule) (to be prepared)
+- [Projects](https://github.com/dbcls/bh25/wiki/Projects) (to be prepared)
+- [Participants](https://github.com/dbcls/bh25/wiki/Participants) (to be prepared)
 
 ## Organizers
 
