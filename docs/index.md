@@ -27,9 +27,9 @@ Note: Registration may be closed early if the number of participants exceeds the
 
 ## Information
 
-- [Schedule](https://github.com/dbcls/bh25/wiki/Schedule) (to be prepared)
+- [Schedule](https://github.com/dbcls/bh25/wiki/Schedule) (recently updated)
+- [Participants](https://github.com/dbcls/bh25/wiki/Participants) (recently updated)
 - [Projects](https://github.com/dbcls/bh25/wiki/Projects) (to be prepared)
-- [Participants](https://github.com/dbcls/bh25/wiki/Participants) (to be prepared)
 
 ## Organizers
 
