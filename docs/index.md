@@ -1,4 +1,4 @@
-<img src="./images/bh-logo.png" width="200">
+<img src="./images/bh25-logo.png" width="200">
 
 # DBCLS BioHackathon 2025
 
